@@ -27,3 +27,20 @@ A responsive and user-friendly Weather App developed using **HTML**, **CSS**, **
 
 ## 📁 Project Structure
 
+## 👩‍💻 Developer Info
+
+**Name:** Malaika Arshad  
+**Role:** Frontend Developer | Software Engineering Student  
+**University:** Khawaja Fareed University of Engineering & Information Technology, Rahim Yar Khan  
+**Email:** malaikaarshada0309@gmail.com  
+**Phone:** 0309-3442247  
+**Current Learning:** Machine Learning via Coursera  
+**Skills:** HTML, CSS, JS, Bootstrap, WordPress, Python
+
+## 📜 License
+
+This project is open-source and free to use for educational and personal purposes.
+
+---
+
+
